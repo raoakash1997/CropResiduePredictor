@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">HarvestTrace</string>
+    <string name="app_title">HarvestTrace</string>
+    <string name="ic_arrow_forward">Arrow Forward</string>
+
+    <!-- General Preferences -->
+    <string name="general_preference_group">General</string>
+    <string name="units_icon_description">A ruler icon</string>
+    <string name="units_text">Units</string>
+
+    <!-- Info  -->
+    <string name="info_preference_group">Info</string>
+    <string name="about_us">About Us</string>
+    <string name="help">Help</string>
+    <string name="knowledge_center">Knowledge Center</string>
+
+
+    <!--    Device Information Page-->
+    <string name="device_information">Device Information</string>
+
+    <!--    Landing Page -->
+    <string name="connect_to_thermal_camera">Connect to thermal camera</string>
+    <string name="cancel_searching_for_thermal_camera">Cancel searching for thermal camera</string>
+
+
+    <!--    Messages-->
+    <string name="initializing_app">Initializing Application</string>
+
+
+    <!--    General-->
+    <string name="close">Close</string>
+    <string name="back_button_description">Back Button</string>
+    <string name="go_to_preferences">Go to preferences</string>
+    <string name="emissivity">Emissivity</string>
+
+</resources>
